@@ -1,7 +1,7 @@
-# Job Search and Recommendation
-    A project to implement basic u2i2i recommendation system.
+# Online Shopping Website
+    A Spring and Hibernate based Shopping and Ordering system.
     Techniques invovled: 
-        - RESTful
-        - AJAX
-        - MYSQL
-        - Amazon RDS                
+        - Spring
+        - Hibernate
+        - JDBC
+        - Spring Web Flow                
